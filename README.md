@@ -1,50 +1,60 @@
 # Late Night Raid
 
-**Independent World of Warcraft: Forever guide for returning players.**
+> An independent World of Warcraft: Forever guide for returning and curious players.
 
-Late Night Raid is a practical information hub for players who want a clear overview of **World of Warcraft: Forever** without digging through scattered announcements, panels, and support pages.
+[Late Night Raid](https://latenightraid.com/) is a practical information hub for players who want a clear, source-linked overview of **World of Warcraft: Forever** without searching through scattered announcements, panels, product pages, and support articles.
 
-🌐 **Official website:** https://latenightraid.com/
+**Explore the website:** [latenightraid.com](https://latenightraid.com/)
 
 ## What you'll find
 
-Late Night Raid currently focuses on helping returning and curious players quickly understand:
+Late Night Raid helps players understand the details that matter when deciding whether, when, and how to play:
 
-- Release date and launch timing
-- Beta access and name reservation
-- Pricing, subscription, and edition differences
-- Level cap and progression
-- New zones and questing content
-- Dungeons and raids
-- New race/class combinations
+- Release dates, regional launch times, and name reservation
+- Beta access, installation, and account requirements
+- Pricing, subscriptions, and edition differences
+- Level cap, progression, zones, and questing content
+- Dungeons, raids, race/class combinations, and PvP
 - Legacy, Camping, transmog, controller support, and other systems
 - Practical summaries for returning WoW and WoW Classic players
 
-## Who this is for
-
-Late Night Raid is especially useful for:
+## Who it's for
 
 - Returning World of Warcraft players
 - WoW Classic players evaluating WoW Forever
-- Players who want concise launch and beta information
 - Players comparing editions, systems, and progression changes
-- Anyone looking for a source-linked overview before launch
+- Anyone looking for a concise, source-linked overview before launch
 
-## Project status
+## Editorial approach
 
-This repository is the public project page for **Late Night Raid**.
+The project prioritizes useful summaries backed by first-party sources. When details are still developing, the website aims to distinguish confirmed information from plans that may change and to update its guides as Blizzard publishes new information.
 
-The website is actively maintained and expanded as more official information becomes available.
+Late Night Raid is a reference and decision-support resource, not a replacement for Blizzard's official announcements or support channels.
 
-This repository is intended for project information, documentation, and public references. It does **not** contain the production website source code.
+## Repository scope
 
-## About
+This repository is the public documentation home for **Late Night Raid**. It contains project information, planning notes, release history, and contribution guidance. It does **not** contain the production website source code, private infrastructure, credentials, or proprietary configuration.
 
-Late Night Raid is an **independent** World of Warcraft information site and is not affiliated with or endorsed by Blizzard Entertainment.
+- [Roadmap](ROADMAP.md)
+- [Changelog](CHANGELOG.md)
+- [Frequently asked questions](FAQ.md)
+- [Contribution guide](CONTRIBUTING.md)
 
-World of Warcraft, Warcraft, Blizzard, and related names and marks are trademarks or registered trademarks of Blizzard Entertainment, Inc.
+The website is actively maintained and expanded as more official information becomes available. Roadmap items describe direction, not guaranteed release dates.
+
+## Feedback and corrections
+
+Found an outdated detail, broken source, or unclear explanation? [Open an issue](https://github.com/mgayy520/late-night-raid/issues) with the affected page, the proposed correction, and a first-party source when possible.
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) before proposing a documentation change or feature.
+
+## Independence and trademarks
+
+Late Night Raid is an **independent** World of Warcraft information site and is not affiliated with, endorsed by, or sponsored by Blizzard Entertainment.
+
+World of Warcraft, Warcraft, Blizzard, and related names and marks are trademarks or registered trademarks of Blizzard Entertainment, Inc. All other trademarks belong to their respective owners.
 
 ## Links
 
-- Website: https://latenightraid.com/
-- GitHub project: https://github.com/mgayy520/late-night-raid
+- Website: [latenightraid.com](https://latenightraid.com/)
+- GitHub: [mgayy520/late-night-raid](https://github.com/mgayy520/late-night-raid)
